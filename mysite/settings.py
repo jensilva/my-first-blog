@@ -25,7 +25,7 @@ SECRET_KEY = 'bim!0y)$=j(nhi4m==topxb9zkfvk5uyq4!d)r8=j!_ffk0y$b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'jensilva.pythonanywhere.com']
 
 
 # Application definition
